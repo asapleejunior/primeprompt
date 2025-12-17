@@ -1,3 +1,3 @@
-Mockup integration with html css and vanilla js
-test here: https://asapleejunior.github.io/primeprompt/
-figma link: https://www.figma.com/design/Aua2iREe...
+Mockup integration with html css and vanilla js  
+test here: https://asapleejunior.github.io/primeprompt/  
+figma link: https://www.figma.com/design/Aua2iREe...  
